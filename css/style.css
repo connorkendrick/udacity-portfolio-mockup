@@ -1,0 +1,60 @@
+body {
+    font-family: 'Lato', sans-serif;
+}
+
+.logo {
+    float: left;
+    width: 12em;
+}
+
+#name {
+    float: right;
+    font-size: 4em;
+    margin: 0.6em auto 0 auto;
+}
+
+#profession {
+    float: right;
+    clear: right;
+    font-size: 1.5em;
+}
+
+#main-image {
+    max-width: 100%;
+    height: auto;
+    margin: 0.5em auto;
+}
+
+#featured-work-banner {
+    float: left;
+    font-size: 2em;
+    margin-bottom: 0.5em;
+}
+
+#project-image-1 {
+    max-width: 97%;
+    height: auto;
+    float: left;
+}
+
+#project-image-2 {
+    max-width: 97%;
+    height: auto;
+    float: right;
+}
+
+a {
+    color: blue;
+    text-decoration: none;
+}
+
+h3 {
+    text-align: center;
+    font-size: 1.5em;
+}
+
+p {
+    text-align: center;
+    font-size: 1em;
+    font-weight: bolder;
+}
